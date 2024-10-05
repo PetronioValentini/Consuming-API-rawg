@@ -1,0 +1,27 @@
+.game-card {
+  background: #1f1f1f;
+  border: 1px solid #333;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s, box-shadow 0.3s;
+  max-width: 300px;
+  text-align: center;
+}
+
+.game-card h2 {
+  color: #024cad45;
+  margin: 10px 0;
+  font-size: 1.3em;
+}
+
+.game-card p {
+  color: #aaaaaa;
+}
+
+.game-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}

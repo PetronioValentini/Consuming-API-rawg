@@ -1,0 +1,14 @@
+header {
+  background-color: #1f1f1f;
+  padding: 10px;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+nav a:hover {
+  color: #007bff; 
+}

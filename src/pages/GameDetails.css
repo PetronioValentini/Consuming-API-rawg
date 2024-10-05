@@ -1,0 +1,25 @@
+.game-detail {
+  background: #1e1e1e; 
+  color: white; 
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.game-detail img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.game-detail h1 {
+  margin-top: 10px;
+  font-size: 2rem; 
+}
+
+.game-detail p {
+  color: #ccc; 
+  margin: 10px 0;
+}
+
